@@ -1,0 +1,12 @@
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\GoogloBot1.exe
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\GoogloBot1.pdb
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\Newtonsoft.Json.dll
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\RestSharp.dll
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\Newtonsoft.Json.xml
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\RestSharp.xml
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\obj\Debug\GoogloBot1.csprojAssemblyReference.cache
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\obj\Debug\GoogloBot1.csproj.CoreCompileInputs.cache
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\obj\Debug\GoogloBot1.csproj.CopyComplete
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\obj\Debug\GoogloBot1.exe
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\obj\Debug\GoogloBot1.pdb
+G:\edil\csharp\Projects\GoogloBot1\GoogloBot1\bin\Debug\UserSettings\settings.json
