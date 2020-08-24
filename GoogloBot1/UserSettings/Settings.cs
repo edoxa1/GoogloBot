@@ -4,8 +4,6 @@ namespace GoogloBot1.UserSettings
 {
     internal class Settings
     {
-        [JsonProperty("telegram_settings")]
-        public TelegramSettings TelegramSettings { get; set; }
         [JsonProperty("api_settings")]
         public ApiSettings ApiSettings { get; set; }
         public static Settings Init()
@@ -15,15 +13,7 @@ namespace GoogloBot1.UserSettings
             return json;
         }
     }
-
-    internal class TelegramSettings
-    {
-        [JsonProperty("is_bot_enabled")]
-        public bool IsTelegramBotEnabled { get; set; } 
-        [JsonProperty("telegram_token")]
-        public string TelegramBotToken { get; set; }
-    }
-
+    
     internal class ApiSettings
     {
         [JsonProperty("api_uri")]

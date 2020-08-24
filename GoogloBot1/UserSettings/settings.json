@@ -1,11 +1,7 @@
 ﻿{
-  "telegram_settings": {
-    "is_bot_enabled": true,
-    "telegram_token": "1229407114:AAHdUNdnu00HVxZiFwjFsa0bD7qG-H8Zy48"
-  },
   "api_settings": {
-    "api_uri": "https://google-search5.p.rapidapi.com/google-serps/?pages=2&duration=d&autocorrect=1&q=",
+    "api_uri": "",
     "api_host": "google-search5.p.rapidapi.com",
-    "api_key": "79d71bababmshae63bd1d55fe9c1p12a940jsne422bd2bdc57"
+    "api_key": ""
   }
 }
